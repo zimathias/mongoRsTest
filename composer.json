@@ -1,0 +1,9 @@
+{
+    "require" : {
+        "symfony/yaml" : "2.1.2",
+        "symfony/console" : "2.1.2",
+        "doctrine/common" : "2.3.0",
+        "doctrine/mongodb" : "1.0.0-BETA2",
+        "doctrine/mongodb-odm": "1.0.0-BETA6"
+    }
+}
